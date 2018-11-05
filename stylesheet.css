@@ -94,5 +94,24 @@ li {
     font-family: 'Raleway', sans-serif;
 }
 
-.block {
+.skillset {
+
+}
+
+.skillsGrid {
+    display: grid;
+    justify-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(3, 100px);
+}
+
+.HTML {
+
+}
+
+.CSS {
+
+}
+
+.JS {
 }
